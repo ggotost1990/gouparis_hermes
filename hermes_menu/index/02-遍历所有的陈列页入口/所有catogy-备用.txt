@@ -1,0 +1,282 @@
+[
+	{
+		"sex": "女士",
+		"words": "WOMENREADYTOWEAR",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/"
+	},
+	{
+		"sex": "女士",
+		"words": "PRECOLLECTIONPE",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/collection-printemps-ete/"
+	},
+	{
+		"sex": "女士",
+		"words": "PRECOLLECTIONFW",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/collection-automne-hiver/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENRTWCOATSJACKETS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/manteaux-et-vestes/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENRTWDRESSES",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/robes/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENRTWTOPSSHIRTS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/hauts-et-chemises/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENRTWPANTSSKIRTSSHORTS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/pantalons-jupes-et-shorts/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENRTWKNITWEARTWILLAINES",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/mailles-et-twillaines/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENRTWBEACHWEAR",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/bain/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENDEFILESPE",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/defile-printemps-ete-2023/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENDEFILESAH",
+		"path": "https://www.hermes.com/fr/fr/category/femme/pret-a-porter/defile-automne-hiver-2023/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENSILKSCARVESETC",
+		"path": "https://www.hermes.com/fr/fr/category/femme/le-carre-et-accessoires-en-soie/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENSILKSCARVESSILKACCESS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/carres-chales-et-echarpes/carres-et-accessoires-de-soie/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENCASHMERESHAWLSSTOLES",
+		"path": "https://www.hermes.com/fr/fr/category/femme/carres-chales-et-echarpes/chales-et-echarpes-en-cachemire/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENTWILYSOTHERSMALLFORMATS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/carres-chales-et-echarpes/twillys-et-autres-petits-formats/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENSHOES",
+		"path": "https://www.hermes.com/fr/fr/category/femme/chaussures/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENBAGSSMALLLEATHERGOODS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/sacs-et-petite-maroquinerie/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENBAGSBAGSCLUTCHES",
+		"path": "https://www.hermes.com/fr/fr/category/femme/sacs-et-petite-maroquinerie/sacs-et-pochettes/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENBAGSSMALLLEATHER",
+		"path": "https://www.hermes.com/fr/fr/category/femme/sacs-et-petite-maroquinerie/petite-maroquinerie/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENBAGSLUGGAGE",
+		"path": "https://www.hermes.com/fr/fr/category/femme/sacs-et-petite-maroquinerie/voyage/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENBAGSACCESSORIES",
+		"path": "https://www.hermes.com/fr/fr/category/femme/sacs-et-petite-maroquinerie/accessoires-en-cuir/"
+	},
+	{
+		"sex": "女士",
+		"words": "HIGHTECH",
+		"path": "https://www.hermes.com/fr/fr/category/femme/sacs-et-petite-maroquinerie/high-tech/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENBELTS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/ceintures/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENACCESSORIES",
+		"path": "https://www.hermes.com/fr/fr/category/femme/accessoires/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENJEWELRY",
+		"path": "https://www.hermes.com/fr/fr/category/femme/accessoires-bijoux/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENBRACELETS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/accessoires-bijoux/bracelets/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENNECKLACES",
+		"path": "https://www.hermes.com/fr/fr/category/femme/accessoires-bijoux/colliers-et-pendentifs/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENEARINGS",
+		"path": "https://www.hermes.com/fr/fr/category/femme/accessoires-bijoux/boucles-d-oreilles/"
+	},
+	{
+		"sex": "女士",
+		"words": "WOMENOTHERJEWELRY",
+		"path": "https://www.hermes.com/fr/fr/category/femme/accessoires-bijoux/autres-accessoires/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENREADYTOWEAR",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/"
+	},
+	{
+		"sex": "男士",
+		"words": "COLLECTIONPE",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/collection-printemps-ete/"
+	},
+	{
+		"sex": "男士",
+		"words": "COLLECTIONFW",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/collection-automne-hiver/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENRTWCOATSJACKETS",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/manteaux-et-vestes/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENRTWSPORTSWEAR",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/sportswear/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENRTWSHIRTS",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/chemises/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENRTWPANTSSHORTS",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/pantalons-et-shorts/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENRTWKNITWEARSWEATSHIRTS",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/mailles-et-sweatshirts/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENRTWTSHIRTSPOLOS",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/t-shirts-et-polos/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENRTWBEACHWEAR",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/bain/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENRTWUNDERWEAR",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/chaussettes/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENDEFILESPE",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/defile-printemps-ete-2023/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENDEFILESAH",
+		"path": "https://www.hermes.com/fr/fr/category/homme/pret-a-porter/defile-automne-hiver-2023/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENTIES",
+		"path": "https://www.hermes.com/fr/fr/category/homme/cravates-echarpes-et-carres/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENTIESBOWTIES",
+		"path": "https://www.hermes.com/fr/fr/category/homme/cravates-echarpes-et-carres/cravates-noeuds-papillons-et-pochettes/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENSCARVES",
+		"path": "https://www.hermes.com/fr/fr/category/homme/cravates-echarpes-et-carres/echarpes-et-carres/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENSHOES",
+		"path": "https://www.hermes.com/fr/fr/category/homme/chaussures/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENBAGSSMALLLEATHERGOODS",
+		"path": "https://www.hermes.com/fr/fr/category/homme/sacs-et-petite-maroquinerie/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENBAGSBAGS",
+		"path": "https://www.hermes.com/fr/fr/category/homme/sacs-et-petite-maroquinerie/sacs/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENBAGSSMALLLEATHER",
+		"path": "https://www.hermes.com/fr/fr/category/homme/sacs-et-petite-maroquinerie/petite-maroquinerie/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENBAGSLUGGAGE",
+		"path": "https://www.hermes.com/fr/fr/category/homme/sacs-et-petite-maroquinerie/voyage/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENBAGSACCESSORIES",
+		"path": "https://www.hermes.com/fr/fr/category/homme/sacs-et-petite-maroquinerie/accessoires-en-cuir/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENHIGHTECH",
+		"path": "https://www.hermes.com/fr/fr/category/homme/sacs-et-petite-maroquinerie/high-tech/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENBELTS",
+		"path": "https://www.hermes.com/fr/fr/category/homme/ceintures/"
+	},
+	{
+		"sex": "男士",
+		"words": "ACCESSORIESMEN",
+		"path": "https://www.hermes.com/fr/fr/category/homme/accessoires/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENJEWELRY",
+		"path": "https://www.hermes.com/fr/fr/category/homme/accessoires/accessoires-bijoux/"
+	},
+	{
+		"sex": "男士",
+		"words": "MENACCESSORIES",
+		"path": "https://www.hermes.com/fr/fr/category/homme/accessoires/chapeaux-et-gants/"
+	}
+]

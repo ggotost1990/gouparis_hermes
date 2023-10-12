@@ -1,0 +1,9 @@
+{
+    "name": "fengsuo/library1",
+    "autoload": {
+        "psr-4": {
+            "Fengsuo\\Library1\\": "src/"
+        }
+    },
+    "require": {}
+}

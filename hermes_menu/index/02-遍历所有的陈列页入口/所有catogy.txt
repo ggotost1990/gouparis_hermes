@@ -1,0 +1,52 @@
+[
+	{
+		"path": "https://www.hermes.com/fr/fr/category/bijouterie/bijoux-en-or",
+		"words": "BIJOUTERIEOR",
+		"sex": "女士"
+	},
+	
+	{
+		"path": "https://www.hermes.com/fr/fr/category/bijouterie/bijoux-en-argent",
+		"words": "BIJOUTERIEARGENT",
+		"sex": "女士"
+	},
+
+
+	{
+		"path": "https://www.hermes.com/fr/fr/category/montres/femme",
+		"words": "WATCHESWOMEN",
+		"sex": "女士"
+	},
+
+	{
+		"path": "https://www.hermes.com/fr/fr/category/montres/homme",
+		"words": "WATCHESMEN",
+		"sex": "男士"
+	} ,
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"path": "https://www.hermes.com/fr/fr/category/homme",
+		"words": "MEN",
+		"sex": "男士"
+	},
+	
+	{
+		"path": "https://www.hermes.com/fr/fr/category/femme",
+		"words": "WOMEN",
+		"sex": "女士"
+	}
+	
+	
+
+]
+
+
+
